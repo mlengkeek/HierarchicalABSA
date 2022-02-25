@@ -9,4 +9,11 @@ The code is a ready to run jupyer notebook ("trainer.ipynb") which requires suff
 
 Data comes from the FiQA challenge (https://sites.google.com/view/fiqa/home) but is also attached in the data folder. It consists of Train data (1111 observations) and test data (192 observations).
 
+# Related work and code:
+
+Araci, D. (2019). Finbert: Financial sentiment analysis with pre-trained language models. arXiv preprint arXiv:1908.10063. (https://github.com/ProsusAI/finBERT)
+
+Yang, H., Zeng, B., Yang, J., Song, Y., & Xu, R. (2021). A multi-task learning model for chinese-oriented aspect polarity classification and aspect term extraction. Neurocomputing, 419, 344-356. (https://github.com/yangheng95/LCF-ATEPC)
+
+
 
